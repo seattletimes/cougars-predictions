@@ -6,16 +6,16 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": ""
+      "path": "2016/sports/wsu-season-predictor"
     }
   },
-  "title": "Make your pick: Cougars Season Predictor",
-  "description": "How do you think the Cougs will do this year? Make your picks: ",
-  "url": "http://projects-staging.seattletimes.com/predictor-wsu/",
+  "title": "Make your pick: WSU Cougars Season Predictor",
+  "description": "How do you think the Cougs will do this year? Try your hand at picking the games.",
+  "url": "http://projects.seattletimes.com/2016/sports/wsu-season-predictor/",
   "slug": "",
   "tags": [],
   "image": "assets/social.jpg",
   "sheets": ["1otasdncnArijjYiHO_AhjHbuDIrrsMJW8850vC4kTPM"],
-  "production": false,
-  "embedded": true
+  "production": true,
+  "embedded": false
 }
