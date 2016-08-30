@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "predictor-wsu"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": ""
+    }
+  },
+  "title": "Make your pick: Cougars Season Predictor",
+  "description": "How do you think the Cougs will do this year? Make your picks: ",
+  "url": "http://projects-staging.seattletimes.com/predictor-wsu/",
+  "slug": "",
+  "tags": [],
+  "image": "assets/social.jpg",
+  "sheets": ["1otasdncnArijjYiHO_AhjHbuDIrrsMJW8850vC4kTPM"],
+  "production": false,
+  "embedded": true
+}
